@@ -31,6 +31,7 @@ $ git commit -m "README.md"
  1 file changed, 15 insertions(+)
  create mode 100644 README.md
 $
+```
 
 Удивительная история конечно с названием ветки @master@, незнаю куда это может завести, но ничего
 страшного в протекании эволюции думаю нет, да сейчас мы видим что Дисней может исчезнуть из-за этих
@@ -51,6 +52,8 @@ git remote add origin git@github.com:RinatV/y-practic-1.git
 git add .
 git commit -m "Доступ к Github"
 git push -u origin master
+```
+
 
 
 
